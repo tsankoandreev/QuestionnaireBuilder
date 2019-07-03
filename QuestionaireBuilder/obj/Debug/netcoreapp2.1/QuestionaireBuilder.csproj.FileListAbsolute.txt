@@ -1,0 +1,4 @@
+D:\Projects\QuestionnaireBuilder\QuestionnaireBuilder\QuestionaireBuilder\obj\Debug\netcoreapp2.1\QuestionaireBuilder.csprojAssemblyReference.cache
+D:\Projects\QuestionnaireBuilder\QuestionnaireBuilder\QuestionaireBuilder\obj\Debug\netcoreapp2.1\QuestionaireBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\QuestionnaireBuilder\QuestionnaireBuilder\QuestionaireBuilder\obj\Debug\netcoreapp2.1\QuestionaireBuilder.AssemblyInfoInputs.cache
+D:\Projects\QuestionnaireBuilder\QuestionnaireBuilder\QuestionaireBuilder\obj\Debug\netcoreapp2.1\QuestionaireBuilder.AssemblyInfo.cs
